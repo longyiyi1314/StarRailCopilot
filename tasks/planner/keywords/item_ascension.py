@@ -315,3 +315,16 @@ Harbinger_of_Strife = ItemAscension(
     item_group=1100,
     dungeon_id=1122,
 )
+Harbinger_of_Strife = ItemAscension(
+    id=25,
+    name='Harbinger_of_Strife',
+    cn='侵略凝块',
+    cht='侵略凝塊',
+    en='Invasive Clot',
+    jp='侵略の結晶',
+    es='Coágulo invasivo',
+    rarity='VeryRare',
+    item_id=,
+    item_group=1100,
+    dungeon_id=,
+)
